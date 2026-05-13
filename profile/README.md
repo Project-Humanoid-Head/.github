@@ -21,6 +21,7 @@ The project is divided into the following repositories to ensure modularity and 
 * [**rpi5-backend**](https://github.com/Project-Humanoid-Head/RPI5-Backend) — The backend running on the Raspberry Pi 5, which is inside of the head.
 * [**pico-controllers**](https://github.com/Project-Humanoid-Head/PICO-controllers) — Code for the Raspberry Pi Pico 2, which receives commands from the RPi 5 and directly controls the servomotors for eye and facial movements.
 * [**3d-models**](https://github.com/Project-Humanoid-Head/3D-Models) — exported `.stl` models ready for 3D printing.
+* [**user-application**](https://github.com/Project-Humanoid-Head/User-Application) — Python application for viewing and controlling the head.
 
 ---
 
